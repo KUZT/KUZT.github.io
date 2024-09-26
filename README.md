@@ -40,3 +40,13 @@ p{color: red;}
 ```python
 print("alama")
 ```
+
+fejléc 1 | fejléc 2
+---------|---------
+adat | adat | kuki
+
+umszki.hu
+
+[kuki](umszki.hu)
+
+![womp](160320.webp)
