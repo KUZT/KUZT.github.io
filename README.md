@@ -47,6 +47,6 @@ adat | adat | kuki
 
 umszki.hu
 
-[kuki](umszki.hu)
+[kuki](http://umszki.hu/)
 
 ![womp](160320.webp)
