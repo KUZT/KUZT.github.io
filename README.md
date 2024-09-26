@@ -41,6 +41,11 @@ p{color: red;}
 print("alama")
 ```
 
+puki
+
+
+
+
 fejléc 1 | fejléc 2
 ---------|---------
 adat | adat | kuki
