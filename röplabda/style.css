@@ -2,6 +2,26 @@
     width: 50px;
 }
 #eleje{
-    width: 100%;
+    background-image: url("képek/eleje.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 830px;
     background-attachment: fixed;
+}
+
+#r1{
+    padding: 30px;
+}
+
+#b1{
+    padding: 0px 180px ;
+    font-size: x-large;
+    text-align: justify;
+}
+
+#k1{
+    width:90%;
+    border-radius: 25px;
+    text-align: center;
+    margin-left: -20px;
 }
