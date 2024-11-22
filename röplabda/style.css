@@ -2,6 +2,11 @@
     width: 50px;
 }
 #eleje{
+    background-image: url(képek/eleje.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+    height: 500px;
     width: 100%;
     background-attachment: fixed;
 }
