@@ -9,8 +9,16 @@
     background-attachment: fixed;
 }
 
+#main{
+    padding: 0px 10px ;
+}
+
 #r1{
     padding: 40px;
+}
+
+#r2{
+    margin-left: 145px;
 }
 
 #b1{
@@ -19,21 +27,25 @@
     text-align: justify;
 }
 
+
+
 #k1{
     width:90%;
     border-radius: 25px;
     text-align: center;
-    margin-left: -20px;
+    margin-left: -50px;
 }
-
-
 
 #k2{
     width:90%;
     border-radius: 25px;
     text-align: center;
     margin-left: 150px;
+    
+}
 
+#k3{
+    height:191px ;
 }
 
 #palya{
