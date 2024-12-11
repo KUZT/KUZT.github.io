@@ -18,7 +18,13 @@
 }
 
 #r2{
+    padding: 40px;
+}
+
+#r3{
     margin-left: 145px;
+    margin-top: 50px;
+    text-align: justify;
 }
 
 #b1{
